@@ -68,7 +68,7 @@
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
-  --bs-body-color: #212529;
+  --bs-body-color: black;
   --bs-body-bg: #fff;
 }
 
@@ -629,9 +629,7 @@ progress {
 .img-fluid {
   max-width: 100%;
   height: auto;
-
 }
-
 
 .img-thumbnail {
   padding: 0.25rem;
@@ -8881,7 +8879,7 @@ fieldset:disabled .btn {
 .text-black-50,
 body {
   --bs-text-opacity: 1;
-  color: rgba(0, 0, 0, 0.5) !important;
+  color: black !important;
 }
 
 .text-white-50 {
