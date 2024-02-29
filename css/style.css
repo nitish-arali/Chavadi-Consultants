@@ -72,6 +72,15 @@
   --bs-body-bg: #fff;
 }
 
+@font-face {
+  font-family: satisfy;
+  src: url(/fonts/Satisfy-Regular.ttf);
+}
+@font-face {
+  font-family: nato-sans;
+  src: url(/fonts/NotoSansCham-VariableFont_wght.ttf);
+}
+
 *,
 *::before,
 *::after {
@@ -12040,7 +12049,8 @@ body {
   font-weight: 500;
 }
 .logo:hover {
-  color: #fff !important;
+  /* color: #E3651D !important; */
+  font-weight: 600 !important;
 }
 
 .site-nav {
@@ -12064,14 +12074,14 @@ body {
   display: inline-block;
 }
 .site-nav .site-navigation .site-menu > li > a {
-  font-size: 16px;
+  font-size: 18px;
   padding: 10px 15px;
   display: inline-block;
   text-decoration: none;
   color: black;
 }
 .site-nav .site-navigation .site-menu > li > a:hover {
-  color: #fff;
+  color: #e3651d;
 }
 .site-nav .site-navigation .site-menu > li.cta-button a {
   padding: 6px 20px;
@@ -12085,7 +12095,7 @@ body {
   border-color: #00204a;
 }
 .site-nav .site-navigation .site-menu > li.active > a {
-  color: black;
+  color: #2F58CD;
 }
 .site-nav .site-navigation .site-menu .has-children {
   position: relative;
@@ -12700,7 +12710,7 @@ textarea {
 }
 
 .menu-bg-wrap {
-  background-color: #ffeadd;
+  background-color: #fff;
   padding: 10px 30px;
   position: relative;
   float: left;
