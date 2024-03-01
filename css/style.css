@@ -10271,12 +10271,13 @@ body {
     padding: 0;
   }
   #map {
-    
+    height: 300px;
   }
-  #enquiry-form{
-    /* margin: */
+  #enquiry-form {
+    margin: 0px 50px;
   }
 }
+
 @media (min-width: 992px) {
   .float-lg-start {
     float: left !important;
