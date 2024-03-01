@@ -49,7 +49,6 @@
           document.body.classList.remove("offcanvas-menu");
           mtoggle.classList.remove("active");
           mTog.classList.remove("active");
-         
         } else {
           document.body.classList.add("offcanvas-menu");
           mtoggle.classList.add("active");
@@ -73,9 +72,9 @@
           mtoggleTemp.classList.remove("active");
         }
       }
-	//   if(isClickInside){
-	// 	mtoggleTemp.click();
-	//   }
+      //   if(isClickInside){
+      // 	mtoggleTemp.click();
+      //   }
     });
   };
   siteMenuClone();
