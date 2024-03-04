@@ -5488,7 +5488,22 @@ fieldset:disabled .btn {
   padding: 0 0;
   margin-bottom: 1rem;
   list-style: none;
-  
+}
+
+html,
+body {
+  scroll-behavior: smooth;
+}
+
+#btn-back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  top: 90vh;
+  display: none;
+  z-index: 1000;
+  border-radius: 50%;
+ 
 }
 
 .breadcrumb-item + .breadcrumb-item {
