@@ -13720,3 +13720,195 @@ nav[aria-label="breadcrumb"] li:before {
   background: #00204a;
   color: #fff;
 }
+
+@media (min-width: 1400px) {
+  #taluk {
+    height: 450px;
+  }
+  #dc {
+    height: 450px;
+  }
+  #bbmp {
+    height: 450px;
+  }
+  #bda {
+    height: 450px;
+  }
+  #bmrda {
+    height: 450px;
+  }
+  #strr {
+    height: 450px;
+  }
+  #kspcb {
+    height: 450px;
+  }
+  #bwssb {
+    height: 450px;
+  }
+  #kptcl {
+    height: 480px;
+  }
+
+  #seiaa {
+    height: 480px;
+  }
+  #fire {
+    height: 480px;
+  }
+  #hal {
+    height: 480px;
+  }
+  #bsnl {
+    height: 380px;
+  }
+  #aai {
+    height: 380px;
+  }
+  #rera {
+    height: 380px;
+  }
+ 
+}
+
+@media (max-width: 1399px) and (min-width: 992px) {
+  #taluk {
+    height: 320px;
+  }
+  #dc {
+    height: 320px;
+  }
+  #bbmp {
+    height: 400px;
+  }
+  #bda {
+    height: 400px;
+  }
+  #bmrda {
+    height: 350px;
+  }
+  #strr {
+    height: 350px;
+  }
+  #kspcb {
+    height: 280px;
+  }
+  #bwssb {
+    height: 280px;
+  }
+  #kptcl {
+    height: 380px;
+  }
+  #seiaa {
+    height: 380px;
+  }
+  #fire {
+    height: 250px;
+  }
+  #hal {
+    height: 250px;
+  }
+  #bsnl {
+    height: 250px;
+  }
+  #aai {
+    height: 250px;
+  }
+  #rera {
+    height: 350px;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  #taluk {
+    height: 320px;
+  }
+  #dc {
+    height: 320px;
+  }
+  #bbmp {
+    height: 400px;
+  }
+  #bda {
+    height: 400px;
+  }
+  #bmrda {
+    height: 380px;
+  }
+  #strr {
+    height: 380px;
+  }
+  #kspcb {
+    height: 280px;
+  }
+  #bwssb {
+    height: 280px;
+  }
+  #kptcl {
+    height: 400px;
+  }
+  #seiaa {
+    height: 400px;
+  }
+  #fire {
+    height: 270px;
+  }
+  #hal {
+    height: 270px;
+  }
+  #bsnl {
+    height: 250px;
+  }
+  #aai {
+    height: 250px;
+  }
+  #rera {
+    height: 330px;
+  }
+}
+@media (max-width: 767px) {
+  #taluk {
+    height: 320px;
+  }
+  #dc {
+    height: 200px;
+  }
+  #bbmp {
+    height: 400px;
+  }
+  #bda {
+    height: 380px;
+  }
+  #bmrda {
+    height: 370px;
+  }
+  #strr {
+    height: 350px;
+  }
+  #kspcb {
+    height: 260px;
+  }
+  #bwssb {
+    height: 230px;
+  }
+  #kptcl {
+    height: 420px;
+  }
+  #seiaa {
+    height: 300px;
+  }
+  #fire {
+    height: 250px;
+  }
+  #hal {
+    height: 250px;
+  }
+  #bsnl {
+    height: 250px;
+  }
+  #aai {
+    height: 250px;
+  }
+  #rera {
+    height: 350px;
+  }
+}
