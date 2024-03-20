@@ -1502,7 +1502,7 @@
                 justify-content: center;
               "
             >
-              <form action="#">
+              <form onsubmit="sendEmail(event)">
                 <div
                   class="row"
                   id="enquiry-form"
@@ -1525,7 +1525,7 @@
                   </div>
                   <div class="col-6 mb-3">
                     <input
-                      type="email"
+                      type="number"
                       style="border-radius: 10px"
                       class="form-control"
                       placeholder="Phone Number"
@@ -1653,6 +1653,8 @@
         <span class="visually-hidden">Loading...</span>
       </div>
     </div>
+    <!-- email smtp  -->
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
 
     <script src="js/bootstrap.bundle.min.js"></script>
     <script src="js/tiny-slider.js"></script>
