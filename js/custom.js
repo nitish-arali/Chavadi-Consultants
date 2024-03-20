@@ -140,7 +140,7 @@
 
 // Email smtpjs
 function sendEmail(e) {
-  alert("clicked");
+  
   e.preventDefault();
   Email.send({
     Host: "smtp.elasticemail.com",
