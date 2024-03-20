@@ -139,16 +139,41 @@
 // }
 
 // Email smtpjs
+// function sendEmail(e) {
+
+//   e.preventDefault();
+//   Email.send({
+//     Host: "smtp.elasticemail.com",
+//     Username: "website.chavadiconsultants@gmail.com",
+//     Password: "45E70364F5721892E7D8315BA1A38011EC3D",
+//     To: "nitisharali1995@gmail.com",
+//     From: "website.chavadiconsultants@gmail.com",
+//     Subject: "This is the subject",
+//     Body: "And this is the body",
+//   }).then((message) => alert(message));
+// }
+
 function sendEmail(e) {
-  
   e.preventDefault();
-  Email.send({
-    Host: "smtp.elasticemail.com",
-    Username: "website.chavadiconsultants@gmail.com",
-    Password: "45E70364F5721892E7D8315BA1A38011EC3D",
-    To: "nitisharali1995@gmail.com",
-    From: "website.chavadiconsultants@gmail.com",
-    Subject: "This is the subject",
-    Body: "And this is the body",
-  }).then((message) => alert(message));
+  let params = {
+    name: document.getElementById("name").value,
+    PhNumber: document.getElementById("PhNumber").value,
+    subject: document.getElementById("subject").value,
+    enquiryMessage: document.getElementById("enquiryMessage").value,
+  };
+
+  let serviceId = "service_152mwqh";
+  let templateId = "template_dt34wou";
+
+  emailjs
+    .send(serviceId, templateId, params)
+    .then((res) => {
+      document.getElementById("name").value = "";
+      document.getElementById("PhNumber").value = "";
+      document.getElementById("subject").value = "";
+      document.getElementById("enquiryMessage").value = "";
+      console.log(res);
+      alert("Your Enquiry Sent Successfully!");
+    })
+    .catch((e) => console.log(e));
 }

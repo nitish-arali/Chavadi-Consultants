@@ -1517,6 +1517,8 @@
                   </h5>
                   <div class="col-6 mb-3">
                     <input
+                      id="name"
+                      name="name"
                       type="text"
                       style="border-radius: 10px"
                       class="form-control"
@@ -1525,6 +1527,8 @@
                   </div>
                   <div class="col-6 mb-3">
                     <input
+                      id="PhNumber"
+                      name="PhNumber"
                       type="number"
                       style="border-radius: 10px"
                       class="form-control"
@@ -1533,6 +1537,8 @@
                   </div>
                   <div class="col-12 mb-3">
                     <input
+                      id="subject"
+                      name="subject"
                       type="text"
                       style="border-radius: 10px"
                       class="form-control"
@@ -1541,9 +1547,9 @@
                   </div>
                   <div class="col-12 mb-3">
                     <textarea
-                      name=""
+                      id="enquiryMessage"
+                      name="enquiryMessage"
                       style="border-radius: 10px"
-                      id=""
                       cols="30"
                       rows="7"
                       class="form-control"
@@ -1653,8 +1659,18 @@
         <span class="visually-hidden">Loading...</span>
       </div>
     </div>
-    <!-- email smtp  -->
-    <script src="https://smtpjs.com/v3/smtp.js"></script>
+    <!-- emailJs -->
+    <script
+      type="text/javascript"
+      src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"
+    ></script>
+    <script type="text/javascript">
+      (function () {
+        emailjs.init({
+          publicKey: "kHRHu9cfKr0OkRPH9",
+        });
+      })();
+    </script>
 
     <script src="js/bootstrap.bundle.min.js"></script>
     <script src="js/tiny-slider.js"></script>
