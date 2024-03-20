@@ -155,6 +155,9 @@
 
 function sendEmail(e) {
   e.preventDefault();
+  document.getElementById("submitButton").value = "Submitting Please Wait";
+  document.getElementById("submitButton").disabled = true;
+
   let params = {
     name: document.getElementById("name").value,
     PhNumber: document.getElementById("PhNumber").value,
@@ -174,6 +177,15 @@ function sendEmail(e) {
       document.getElementById("enquiryMessage").value = "";
       console.log(res);
       alert("Your Enquiry Sent Successfully!");
+      document.getElementById("submitButton").value = "Send Enquiry";
+      document.getElementById("submitButton").disabled = false;
     })
-    .catch((e) => console.log(e));
+    .catch((e) => {
+      console.log(e);
+      document.getElementById("submitButton").value = "Send Enquiry";
+      document.getElementById("submitButton").disabled = false;
+      alert(
+        "Failed to Submit Enquiry! Please Contact through Phone Number mentioned below"
+      );
+    });
 }
