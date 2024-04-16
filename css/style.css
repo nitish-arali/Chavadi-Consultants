@@ -13721,30 +13721,32 @@ nav[aria-label="breadcrumb"] li:before {
   color: #fff;
 }
 
+/* Media Quieries for Responsive Design*/
+
 @media (min-width: 1400px) {
   #taluk {
-    height: 450px;
+    height: 470px;
   }
   #dc {
-    height: 450px;
+    height: 470px;
   }
   #bbmp {
-    height: 450px;
+    height: 470px;
   }
   #bda {
-    height: 450px;
+    height: 470px;
   }
   #bmrda {
-    height: 450px;
+    height: 400px;
   }
   #strr {
-    height: 450px;
+    height: 400px;
   }
   #kspcb {
-    height: 450px;
+    height: 400px;
   }
   #bwssb {
-    height: 450px;
+    height: 400px;
   }
   #kptcl {
     height: 480px;
@@ -13768,7 +13770,6 @@ nav[aria-label="breadcrumb"] li:before {
   #rera {
     height: 380px;
   }
- 
 }
 
 @media (max-width: 1399px) and (min-width: 992px) {
@@ -13826,10 +13827,10 @@ nav[aria-label="breadcrumb"] li:before {
     height: 320px;
   }
   #bbmp {
-    height: 400px;
+    height: 420px;
   }
   #bda {
-    height: 400px;
+    height: 420px;
   }
   #bmrda {
     height: 380px;
@@ -13910,5 +13911,99 @@ nav[aria-label="breadcrumb"] li:before {
   }
   #rera {
     height: 350px;
+  }
+}
+@media (max-width: 410px) {
+  #taluk {
+    height: 320px;
+  }
+  #dc {
+    height: 200px;
+  }
+  #bbmp {
+    height: 450px;
+  }
+  #bda {
+    height: 470px;
+  }
+  #bmrda {
+    height: 420px;
+  }
+  #strr {
+    height: 370px;
+  }
+  #kspcb {
+    height: 300px;
+  }
+  #bwssb {
+    height: 260px;
+  }
+  #kptcl {
+    height: 490px;
+  }
+  #seiaa {
+    height: 300px;
+  }
+  #fire {
+    height: 320px;
+  }
+  #hal {
+    height: 280px;
+  }
+  #bsnl {
+    height: 260px;
+  }
+  #aai {
+    height: 250px;
+  }
+  #rera {
+    height: 380px;
+  }
+}
+@media (max-width: 300px) {
+  #taluk {
+    height: 320px;
+  }
+  #dc {
+    height: 200px;
+  }
+  #bbmp {
+    height: 500px;
+  }
+  #bda {
+    height: 500px;
+  }
+  #bmrda {
+    height: 480px;
+  }
+  #strr {
+    height: 430px;
+  }
+  #kspcb {
+    height: 330px;
+  }
+  #bwssb {
+    height: 300px;
+  }
+  #kptcl {
+    height: 580px;
+  }
+  #seiaa {
+    height: 380px;
+  }
+  #fire {
+    height: 340px;
+  }
+  #hal {
+    height: 300px;
+  }
+  #bsnl {
+    height: 300px;
+  }
+  #aai {
+    height: 300px;
+  }
+  #rera {
+    height: 420px;
   }
 }
