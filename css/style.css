@@ -13762,13 +13762,13 @@ nav[aria-label="breadcrumb"] li:before {
     height: 480px;
   }
   #bsnl {
-    height: 380px;
+    height: 500px;
   }
   #aai {
-    height: 380px;
+    height: 500px;
   }
   #rera {
-    height: 380px;
+    height: 500px;
   }
 }
 
@@ -13816,7 +13816,7 @@ nav[aria-label="breadcrumb"] li:before {
     height: 250px;
   }
   #rera {
-    height: 350px;
+    height: 450px;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
@@ -13863,7 +13863,7 @@ nav[aria-label="breadcrumb"] li:before {
     height: 250px;
   }
   #rera {
-    height: 330px;
+    height: 470px;
   }
 }
 @media (max-width: 767px) {
@@ -13910,7 +13910,7 @@ nav[aria-label="breadcrumb"] li:before {
     height: 250px;
   }
   #rera {
-    height: 350px;
+    height: 440px;
   }
 }
 @media (max-width: 410px) {
@@ -13957,7 +13957,7 @@ nav[aria-label="breadcrumb"] li:before {
     height: 250px;
   }
   #rera {
-    height: 380px;
+    height: 500px;
   }
 }
 @media (max-width: 300px) {
@@ -14004,6 +14004,6 @@ nav[aria-label="breadcrumb"] li:before {
     height: 300px;
   }
   #rera {
-    height: 420px;
+    height: 560px;
   }
 }
