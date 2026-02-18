@@ -13725,16 +13725,16 @@ nav[aria-label="breadcrumb"] li:before {
 
 @media (min-width: 1400px) {
   #taluk {
-    height: 470px;
+    height: 550px;
   }
   #dc {
-    height: 470px;
+    height: 550px;
   }
   #bbmp {
-    height: 470px;
+    height: 550px;
   }
   #bda {
-    height: 470px;
+    height: 550px;
   }
   #bmrda {
     height: 400px;
@@ -13780,10 +13780,10 @@ nav[aria-label="breadcrumb"] li:before {
     height: 320px;
   }
   #bbmp {
-    height: 400px;
+    height: 480px;
   }
   #bda {
-    height: 400px;
+    height: 480px;
   }
   #bmrda {
     height: 350px;
@@ -13819,7 +13819,8 @@ nav[aria-label="breadcrumb"] li:before {
     height: 450px;
   }
 }
-@media (max-width: 991px) and (min-width: 768px) {
+
+@media (max-width: 992px) and (min-width: 768px) {
   #taluk {
     height: 320px;
   }
@@ -13827,10 +13828,10 @@ nav[aria-label="breadcrumb"] li:before {
     height: 320px;
   }
   #bbmp {
-    height: 420px;
+    height: 500px;
   }
   #bda {
-    height: 420px;
+    height: 500px;
   }
   #bmrda {
     height: 380px;
@@ -13874,7 +13875,7 @@ nav[aria-label="breadcrumb"] li:before {
     height: 200px;
   }
   #bbmp {
-    height: 400px;
+    height: 510px;
   }
   #bda {
     height: 380px;
@@ -13921,7 +13922,7 @@ nav[aria-label="breadcrumb"] li:before {
     height: 200px;
   }
   #bbmp {
-    height: 450px;
+    height: 580px;
   }
   #bda {
     height: 470px;
@@ -13968,7 +13969,7 @@ nav[aria-label="breadcrumb"] li:before {
     height: 200px;
   }
   #bbmp {
-    height: 500px;
+    height: 600px;
   }
   #bda {
     height: 500px;
