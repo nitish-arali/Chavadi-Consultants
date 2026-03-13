@@ -13885,8 +13885,11 @@ nav[aria-label="breadcrumb"] li:before {
   #taluk {
     height: 550px;
   }
-  #dc {
-    height: 550px;
+  #biappa {
+    height: 400px;
+  }
+  #bmicapa {
+    height: 480px;
   }
   #bbmp {
     height: 550px;
@@ -13895,7 +13898,7 @@ nav[aria-label="breadcrumb"] li:before {
     height: 550px;
   }
   #bmrda {
-    height: 400px;
+    height: 550px;
   }
   #strr {
     height: 400px;
@@ -13917,7 +13920,7 @@ nav[aria-label="breadcrumb"] li:before {
     height: 480px;
   }
   #hal {
-    height: 480px;
+    height: 500px;
   }
   #bsnl {
     height: 500px;
@@ -13930,39 +13933,42 @@ nav[aria-label="breadcrumb"] li:before {
   }
 }
 
-@media (max-width: 1399px) and (min-width: 992px) {
+@media (max-width: 1400px) and (min-width: 992px) {
   #taluk {
-    height: 320px;
+    height: 480px;
   }
-  #dc {
-    height: 320px;
+  #biappa {
+    height: 350px;
+  }
+  #bmicapa {
+    height: 380px;
   }
   #bbmp {
     height: 480px;
   }
   #bda {
-    height: 480px;
+    height: 400px;
   }
   #bmrda {
-    height: 350px;
+    height: 400px;
   }
   #strr {
-    height: 350px;
+    height: 330px;
   }
   #kspcb {
-    height: 280px;
+    height: 330px;
   }
   #bwssb {
-    height: 280px;
+    height: 350px;
   }
   #kptcl {
     height: 380px;
   }
   #seiaa {
-    height: 380px;
+    height: 260px;
   }
   #fire {
-    height: 250px;
+    height: 260px;
   }
   #hal {
     height: 250px;
@@ -13971,55 +13977,58 @@ nav[aria-label="breadcrumb"] li:before {
     height: 250px;
   }
   #aai {
-    height: 250px;
+    height: 450px;
   }
   #rera {
     height: 450px;
   }
 }
 
-@media (max-width: 992px) and (min-width: 768px) {
+@media (max-width: 991px) and (min-width: 768px) {
   #taluk {
-    height: 320px;
+    height: 510px;
   }
-  #dc {
-    height: 320px;
+  #biappa {
+    height: 380px;
+  }
+  #bmicapa {
+    height: 400px;
   }
   #bbmp {
-    height: 500px;
+    height: 510px;
   }
   #bda {
-    height: 500px;
+    height: 480px;
   }
   #bmrda {
-    height: 380px;
+    height: 480px;
   }
   #strr {
-    height: 380px;
+    height: 350px;
   }
   #kspcb {
-    height: 280px;
+    height: 350px;
   }
   #bwssb {
-    height: 280px;
+    height: 380px;
   }
   #kptcl {
     height: 400px;
   }
   #seiaa {
-    height: 400px;
+    height: 280px;
   }
   #fire {
-    height: 270px;
+    height: 280px;
   }
   #hal {
-    height: 270px;
+    height: 250px;
   }
   #bsnl {
     height: 250px;
   }
   #aai {
-    height: 250px;
+    height: 470px;
   }
   #rera {
     height: 470px;
@@ -14027,46 +14036,49 @@ nav[aria-label="breadcrumb"] li:before {
 }
 @media (max-width: 767px) {
   #taluk {
-    height: 320px;
+    height: 310px;
   }
-  #dc {
-    height: 200px;
+  #biappa {
+    height: 350px;
+  }
+  #bmicapa {
+    height: 350px;
   }
   #bbmp {
     height: 510px;
   }
   #bda {
-    height: 430px;
+    height: 440px;
   }
   #bmrda {
-    height: 370px;
+    height: 360px;
   }
   #strr {
-    height: 350px;
+    height: 330px;
   }
   #kspcb {
-    height: 260px;
+    height: 240px;
   }
   #bwssb {
-    height: 230px;
+    height: 240px;
   }
   #kptcl {
     height: 420px;
   }
   #seiaa {
-    height: 300px;
+    height: 290px;
   }
   #fire {
-    height: 250px;
+    height: 260px;
   }
   #hal {
-    height: 250px;
+    height: 240px;
   }
   #bsnl {
-    height: 250px;
+    height: 230px;
   }
   #aai {
-    height: 250px;
+    height: 230px;
   }
   #rera {
     height: 440px;
@@ -14074,16 +14086,19 @@ nav[aria-label="breadcrumb"] li:before {
 }
 @media (max-width: 410px) {
   #taluk {
-    height: 320px;
+    height: 310px;
   }
-  #dc {
-    height: 200px;
+  #biappa {
+    height: 410px;
+  }
+  #bmicapa {
+    height: 410px;
   }
   #bbmp {
-    height: 580px;
+    height: 590px;
   }
   #bda {
-    height: 500px;
+    height: 505px;
   }
   #bmrda {
     height: 420px;
@@ -14098,13 +14113,13 @@ nav[aria-label="breadcrumb"] li:before {
     height: 260px;
   }
   #kptcl {
-    height: 490px;
+    height: 500px;
   }
   #seiaa {
-    height: 300px;
+    height: 310px;
   }
   #fire {
-    height: 320px;
+    height: 310px;
   }
   #hal {
     height: 280px;
@@ -14123,23 +14138,26 @@ nav[aria-label="breadcrumb"] li:before {
   #taluk {
     height: 320px;
   }
-  #dc {
-    height: 200px;
+  #biappa {
+    height: 460px;
+  }
+  #bmicapa {
+    height: 460px;
   }
   #bbmp {
-    height: 600px;
+    height: 720px;
   }
   #bda {
-    height: 500px;
+    height: 510px;
   }
   #bmrda {
-    height: 480px;
+    height: 460px;
   }
   #strr {
     height: 430px;
   }
   #kspcb {
-    height: 330px;
+    height: 310px;
   }
   #bwssb {
     height: 300px;
@@ -14148,26 +14166,26 @@ nav[aria-label="breadcrumb"] li:before {
     height: 580px;
   }
   #seiaa {
-    height: 380px;
+    height: 360px;
   }
   #fire {
     height: 340px;
   }
   #hal {
-    height: 300px;
+    height: 280px;
   }
   #bsnl {
-    height: 300px;
+    height: 280px;
   }
   #aai {
-    height: 300px;
+    height: 280px;
   }
   #rera {
-    height: 560px;
+    height: 580px;
   }
 }
 
-.dept-section h3{
+.dept-section h3 {
   font-weight: 600;
   /* margin-bottom: 10px; */
   color: #005555;
