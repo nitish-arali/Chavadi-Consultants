@@ -1,0 +1,191 @@
+[
+  {
+    "title": "Taluk Office",
+    "imgSrc": "/images/taluk-logo.png",
+    "items": [
+      "Haddubasth",
+      "11E Sketch",
+      "Thathkal\n                      Phodi",
+      "ADLR Sketch",
+      "3 and 9\n                      Column Tally",
+      "Patha\n                      Badalavane",
+      "Documents"
+    ]
+  },
+  {
+    "title": "G B A",
+    "desc": "Greater Bengaluru Authority",
+    "imgSrc": "/images/bbmp-logo.png",
+    "items": [
+      "Sensitive Clearance",
+      "CLU - Change Of Land Use",
+      "Single Plot Approval (Below 2 Acre 20 Gunta)",
+      "Development Plan (Above 2 Acre 20 Guntas)",
+      "Katha Registration",
+      "Katha\n                      Amalgamation",
+      "Katha\n                      Bifurcations",
+      "Katha\n                      Transfer",
+      "Building\n                      Plan Approval",
+      "CC - Commencement Certificate",
+      "OC -\n                      Occupation Certificate",
+      "Property\n                      Tax / Building Assessment"
+    ]
+  },
+  {
+    "title": "B D A",
+    "desc": "Bangalore Development Authority",
+    "imgSrc": "/images/BDA-Logo.png",
+    "items": [
+      "Sensitive Clearance",
+      "CLU -\n                      Change Of Land Use",
+      "Single Plot\n                      Approval (Below 2 Acre 20 Gunta)",
+      "DLP -\n                      Development Plan (Above 2 Acre 20 Guntas)",
+      "BLP -\n                      Building Plan Approvals",
+      "PRL -\n                      Provisional Residential Layout",
+      "CC -\n                      Commencement Certificate",
+      "OC -\n                      Occupation Certificate",
+      "Plot Amalgamation & Bifurcation"
+    ]
+  },
+  {
+    "title": "B M R D A",
+    "desc": "Bangalore Metropolitan Region Development Authority",
+    "imgSrc": "/images/bmrda.jpg",
+    "items": [
+      "CLU -\n                      Change Of Land Use.",
+      "Single Plot\n                      Approval (Below 2 Acre 20 Guntas Or 1 Hectare)",
+      "Layout\n                      Approval",
+      "Development\n                      Plan (Above 1 Hectare)",
+      "Building Plan Approval"
+    ]
+  },
+  {
+    "title": "S T R R",
+    "desc": "Satellite Town Ring Road",
+    "imgSrc": "/images/sttr.png",
+    "items": [
+      "CLU -\n                      Change Of Land Use.",
+      "Single Plot\n                      Approval (Below 2 Acre 20 Guntas Or 1 Hectare)",
+      "Layout\n                      Approval",
+      "Development\n                      Plan (Above 1 Hectare)",
+      "Building Plan Approval"
+    ]
+  },
+  {
+    "title": "K S P C B",
+    "desc": "Karnataka State Polution Control Board",
+    "imgSrc": "/images/kspcb-logo.png",
+    "items": [
+      "CFE -\n                      Consent For Establishment",
+      "CFO -\n                      Consent For Operation"
+    ]
+  },
+  {
+    "title": "B W S S B",
+    "desc": "Bangalore Water Supply & Sewerage Board",
+    "imgSrc": "/images/bwssb-logo.webp",
+    "items": [
+      "NOC - No\n                      Objection Certificate",
+      "Water\n                      Connection"
+    ]
+  },
+  {
+    "title": "B I A P P A",
+    "desc": "Bengaluru International Airport Area Planning Authority",
+    "imgSrc": "/images/dcOffice-logo.jpg",
+    "items": [
+      "CLU -\n                      Change Of Land Use",
+      "Single Plot\n                      Approval(Below 2 Acre 20 Guntas Or 1 Hectare)",
+      "Development\n                      Plan (Above 1 Hectare)",
+      "Building\n                      Plan Approval",
+      "Layout\n                      Approval"
+    ]
+  },
+  {
+    "title": "B M I C A P A",
+    "desc": "Bengaluru - Mysuru Infrastructure Corridor Area Planning\n                Authority",
+    "imgSrc": "/images/dcOffice-logo.jpg",
+    "items": [
+      "CLU -\n                      Change Of Land Use",
+      "Single Plot\n                      Approval(Below 2 Acre 20 Guntas Or 1 Hectare)",
+      "Development\n                      Plan (Above 1 Hectare)",
+      "Building\n                      Plan Approval",
+      "Layout\n                      Approval"
+    ]
+  },
+  {
+    "title": "KPTCL / BESCOM / All ESCOMs",
+    "desc": "Karnataka Power Transmission Corporation Limited",
+    "imgSrc": "/images/kptcl-logo.jpg",
+    "items": [
+      "Karnataka Power\n                    Transmission Corporation Limited",
+      "Bangalore Electricity Supply Company Limited",
+      "Electricity Supply Company Limited",
+      "NOC - No\n                      Objection Certificate",
+      "Electrical\n                      New Connection",
+      "Electricity Bill Name Change",
+      "EHT Line\n                      Shifting",
+      "Sub Station Works"
+    ]
+  },
+  {
+    "title": "S E I A A",
+    "desc": "State Environmental Impact Assessment Authority",
+    "imgSrc": "/images/Seiaa-logo.png",
+    "items": [
+      "Environment\n                      Clearance (EC Only Applicable Above 20,000 Square Meter\n                      Built-Up Area)"
+    ]
+  },
+  {
+    "title": "K S F E S D",
+    "desc": "Karnataka State Fire And Emergency Services Department",
+    "imgSrc": "/images/fire-logo.png",
+    "items": [
+      "FIRE NOC -\n                      No Objection Certificate",
+      "Clearance\n                      Certificate"
+    ]
+  },
+  {
+    "title": "H A L",
+    "desc": "Hindustan Aeronotics Limited",
+    "imgSrc": "/images/hal-logo.jpg",
+    "items": [
+      "NOC - No\n                      Objection Certificate"
+    ]
+  },
+  {
+    "title": "B S N L",
+    "desc": "Bharat Sanchar Nigam Limited",
+    "imgSrc": "/images/bsnl-logo.png",
+    "items": [
+      "NOC - No\n                      Objection Certificate"
+    ]
+  },
+  {
+    "title": "A A I",
+    "desc": "Airports Authority Of India",
+    "imgSrc": "/images/aai-logo.png",
+    "items": [
+      "No\n                      Objection Certificate (NOC)"
+    ]
+  },
+  {
+    "title": "R E R A",
+    "desc": "Real Estate Regulatory Authority",
+    "imgSrc": "/images/rera-logo.png",
+    "items": [
+      "Document\n                      Scrutiny & Uploading",
+      "Project\n                      Registration",
+      "Post\n                      Registration & Quarterly Updates",
+      "Project\n                      Completion",
+      "Change\n                      Request",
+      "Modification & Extensions",
+      "Legal\n                      Services",
+      "Project\n                      Modification",
+      "Project\n                      Transfer Of Rights",
+      "Project\n                      Extension",
+      "Agent\n                      Registration",
+      "Complaints\n                      / Griviences"
+    ]
+  }
+]
